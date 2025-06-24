@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-700 to-purple-800 text-white flex flex-col justify-center items-center px-4 py-12">
@@ -24,6 +23,3 @@ export default function Home() {
     </div>
   );
 }
-=======
-// Página principal do site de renda extra
->>>>>>> 8c282dbddc37e04b4ccf8ad6994d3ca97ec4138e
