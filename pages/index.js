@@ -9,7 +9,7 @@ export default function Home() {
           Descubra o método 100% online que milhares de brasileiros estão usando para gerar renda extra diretamente do celular, mesmo começando do zero!
         </p>
         <a
-          href="https://go.hotmart.com/SEU-LINK-DE-AFILIADO"
+          href="https://go.hotmart.com/SEU-LINK-AFILIADO"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-purple-700 text-white px-6 py-3 rounded-xl font-semibold hover:bg-purple-900 transition"
